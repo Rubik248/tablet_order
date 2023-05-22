@@ -615,8 +615,6 @@ width: 372px;
 height: 70px;
 }
 .frame2 p {
-  width: 100%;
-  height: 100%;
   font-family: 'Akrobat';
   font-style: normal;
   font-weight: 700;
@@ -1459,18 +1457,13 @@ iframe {
   border-radius: 100px;
   width: 372px;
   height: 70px;
-  left: 534px;
-  top: 3068px;
   }
   .frame2 p {
-    width: 147px;
-    height: 11px;
     font-family: 'Akrobat';
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
     line-height: 120%;
-    margin-bottom: 20px;
     text-align: center;
     color: #FFFFFF;
     flex: none;

@@ -615,8 +615,8 @@ width: 372px;
 height: 70px;
 }
 .frame2 p {
-  width: 372px;
-  height: 70px;
+  width: 100%;
+  height: 100%;
   font-family: 'Akrobat';
   font-style: normal;
   font-weight: 700;

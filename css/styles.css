@@ -584,12 +584,10 @@ section {
   margin-top: 40px;
 }
 .frame1 p {
-  width: 136px;
-  height: 29px;
   font-family: 'Akrobat';
   font-style: normal;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 120%;
   text-align: center;
   color: #3C476D;
@@ -619,12 +617,10 @@ left: 534px;
 top: 3068px;
 }
 .frame2 p {
-  width: 147px;
-  height: 11px;
   font-family: 'Akrobat';
   font-style: normal;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 120%;
   margin-bottom: 20px;
   text-align: center;
@@ -642,8 +638,6 @@ top: 3068px;
   gap: 30px;
 }
 .octavte_otsuv h1 {
-  width: 505px;
-  height: 70px;
   font-family: 'Akrobat';
   font-style: normal;
   font-weight: 800;
@@ -653,8 +647,6 @@ top: 3068px;
   color: #3C476D;
 }
 .octavte_otsuv h2 {
-  width: 505px;
-  height: 43px;
   font-family: 'Akrobat';
   font-style: normal;
   font-weight: 400;

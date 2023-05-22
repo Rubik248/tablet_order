@@ -584,6 +584,8 @@ section {
   margin-top: 40px;
 }
 .frame1 p {
+  width: 100px;
+  height: 20px;
   font-family: 'Akrobat';
   font-style: normal;
   font-weight: 700;

@@ -554,7 +554,7 @@ section {
 .foto {
   border: 1px solid #3C476D;
   align-self: flex-start;
-  margin-left: 410px;
+  margin-left: 200px;
   display: flex;
   flex-direction: row;
   border-radius: 20px;
@@ -589,7 +589,7 @@ section {
   font-family: 'Akrobat';
   font-style: normal;
   font-weight: 700;
-  font-size: 24px;
+  font-size: 18px;
   line-height: 120%;
   text-align: center;
   color: #3C476D;
@@ -624,7 +624,7 @@ top: 3068px;
   font-family: 'Akrobat';
   font-style: normal;
   font-weight: 700;
-  font-size: 24px;
+  font-size: 18px;
   line-height: 120%;
   margin-bottom: 20px;
   text-align: center;
@@ -639,7 +639,7 @@ top: 3068px;
   align-items: flex-start;
   justify-content: flex-start;
   padding: 0px;
-  gap: 10px;
+  gap: 30px;
 }
 .octavte_otsuv h1 {
   width: 505px;
@@ -647,7 +647,7 @@ top: 3068px;
   font-family: 'Akrobat';
   font-style: normal;
   font-weight: 800;
-  font-size: 64px;
+  font-size: 54px;
   line-height: 110%;
   margin-left: 130px;
   color: #3C476D;
